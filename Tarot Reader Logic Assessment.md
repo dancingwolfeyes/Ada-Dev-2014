@@ -7,7 +7,8 @@
 
 **2.How did you arrive at that answer? Show your process.**
 
-(2)(3)(6)=36kg Each of the weights could be placed in any order of multiplication and still equal 36.
+(2)(3)(6)=36kg
+Each of the weights could be placed in any order of multiplication and still equal 36.
 We know that if there is a “littlest kitty” then there must be varying weights. Also, because we are measuring in whole kg, finding one single number to the third power that equals 36, putting all three cats at the exact same weight, would require otherwise. (I looked up average weights of cats in lbs and then looked up a conversion chart to kgs to confirm that my numbers would not be off base.)
 
 **3.What other possible explanations are there?**
