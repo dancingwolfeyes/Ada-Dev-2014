@@ -18,6 +18,27 @@ spec.add_dependency "activesupport", "4.0.0"
 
 ### **4.What steps need to be taken to write a generator?**
 
+Create a CLI library for our module.
+
+Tell CLI we will require a generator for our new class. Or, “require file for new class.”
+
+Describe and define new class.
+
+Tell CLI we require Thor for generator even though it has not been inherited yet.
+
+Set up Class to inherit Thor from group and include ‘actions’ for functionality.
+
+Add arguments to further augment our class.
+
+Define exact functionality of the generator step by step.
+
+Confirm source root to be sure files are being stored in the correct location.
+
+
+
+For a more exact breakdown from the reading please see below.
+
+
 in foodie/lib/cli.rb  // All info below will be defined in our CLI library for our foodie module.
 
 	require 'foodie/generators/recipe'  // Tells CLI we will require a generator for recipe class. Require file for new class.
