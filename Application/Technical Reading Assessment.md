@@ -36,7 +36,7 @@ Confirm source root to be sure files are being stored in the correct location.
 
 
 
-For a more exact breakdown from the reading please see below.
+**For a more exact breakdown from the reading please see below.**
 
 
 in foodie/lib/cli.rb  // All info below will be defined in our CLI library for our foodie module.
