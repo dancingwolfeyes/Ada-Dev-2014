@@ -1,3 +1,6 @@
+## **Adrienne Rawlinson**
+
+
 ### **1. What does the command “bundle gem foodie” do?**
 
 Creates a Gem using Bundler named ‘foodie’.
