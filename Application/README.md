@@ -7,7 +7,7 @@
 
 ### [**Resume**](https://github.com/dancingwolfeyes/Ada-Dev-2014/blob/master/Application/Resume.md)
 
-### **Ada Application Questions:** [Video Answers]()
+### **Ada Application Questions:** [Video Answers](http://youtu.be/DTjWzE6pXo0)
 
 ### **Technical Reading Assessment:** [Answers](https://github.com/dancingwolfeyes/Ada-Dev-2014/blob/master/Application/Technical%20Reading%20Assessment.md)
 
